@@ -8,7 +8,8 @@
     border-radius: 50%;
 }
 .image-container {
-    padding: 20px 16px;
+    padding-top: 40px;
+    padding-bottom: 8px;
 }
   .title {
     color: grey;
